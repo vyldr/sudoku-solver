@@ -1,6 +1,3 @@
-#include <iostream>
-#include <fstream>
-
 /* This program will solve any valid sudoku puzzle.  The program will take
  * input from a text file specified on the command line.  The correct file
  * format is 81 numbers, 0-9, separated by white space.  '0' represents an
